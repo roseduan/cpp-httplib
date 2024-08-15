@@ -1,3 +1,5 @@
+test2
+test4
 #[[
 	Build options:
 	* BUILD_SHARED_LIBS (default off) builds as a shared library (if HTTPLIB_COMPILE is ON)
